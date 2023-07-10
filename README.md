@@ -31,13 +31,3 @@ If you are hear I wish I have helped you in someway!
 [<img align="left" alt="StackOverflow" width="22px" src="https://www.shareicon.net/data/512x512/2016/07/09/118339_stackoverflow_512x512.png"/>][stackoverflow]
 [<img align="left" alt="Hackerrank" width="22px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/hackerrank_logo_icon_145206.png" />][hackerrank]
 
-<br/><br/>
-<img align="left" alt="Aarjav Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aarjav22&show_icons=true&hide_border=true" />
-
-
-[youtube]: https://www.youtube.com/results?search_query=technosier
-[instagram]: https://instagram.com/aarjav_jain_22
-[linkedin]: https://www.linkedin.com/in/aarjav-kumar-jain-004ab8167/
-[Kaggle]: https://www.kaggle.com/aarjavkumarjain
-[stackoverflow]: https://stackoverflow.com/users/13632554/aarjav-kumar-jain
-[hackerrank]: https://www.hackerrank.com/aarjavjain
