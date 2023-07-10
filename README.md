@@ -37,7 +37,7 @@ If you are hear I wish I have helped you in someway!
 
 [youtube]: https://www.youtube.com/results?search_query=technosier
 [instagram]: https://instagram.com/aarjav_jain_22
-[linkedin]: https://www.linkedin.com/in/aarjav-kumar-jain-004ab8167/
+[linkedin]: www.linkedin.com/in/aarjav-jain-004ab8167
 [Kaggle]: https://www.kaggle.com/aarjavkumarjain
 [stackoverflow]: https://stackoverflow.com/users/13632554/aarjav-kumar-jain
 [hackerrank]: https://www.hackerrank.com/aarjavjain
