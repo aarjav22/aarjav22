@@ -3,8 +3,8 @@
 If you are hear I wish I have helped you in someway!
 
 
-- 🔭 I’m currently working on ML Models
-- 🌱 I’m currently studying Machine Learning
+- 🔭 I’m currently working on Salesforce Development
+- 🌱 I’m currently studying Full Stack Development
 - ⚡ Fun fact: I love Reading Books
 
 
@@ -32,7 +32,6 @@ If you are hear I wish I have helped you in someway!
 [<img align="left" alt="Hackerrank" width="22px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/hackerrank_logo_icon_145206.png" />][hackerrank]
 
 <br/><br/>
-<img align="left" alt="Aarjav Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aarjav22&show_icons=true&hide_border=true" />
 
 
 [youtube]: https://www.youtube.com/results?search_query=technosier
